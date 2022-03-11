@@ -48,16 +48,17 @@ Total,Нийт,
 Task,*задача,
 First Name,Нэр,
 Address,Хаяг,
-
-
-
-
-
-
-
-
-
-
+Active,Идэвхтэй,
+Color,*цвет,
+No Data,Мэдээлэлгүй,
+Add Row,Мөр нэмэх,
+Currency,Валют,
+Country,Улс,
+Phone Number,Утасны дугаар,
+Email Address,Email хаяг,
+User,Хэрэглэгч,
+Rule,Нөхцөл,
+Type,Төрөл,
 
 
 
